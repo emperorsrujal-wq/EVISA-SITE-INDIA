@@ -1,0 +1,7 @@
+{
+  "name": "India e-Visa Portal Clone",
+  "description": "A high-fidelity clone of the Official Indian e-Visa Application portal with a functional application flow and a Gemini-powered Visa Assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
